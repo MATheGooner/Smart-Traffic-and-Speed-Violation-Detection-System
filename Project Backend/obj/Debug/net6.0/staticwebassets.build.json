@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "1dm4l9sHjqKzUwTI7PSDZKiJMHoxut9CkLgkvbcvfTk=",
+  "Source": "Traffic Control System",
+  "BasePath": "_content/Traffic Control System",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Traffic Control System\\wwwroot",
+      "Source": "Traffic Control System",
+      "ContentRoot": "C:\\Users\\Inioluwa Johansson\\source\\repos\\Traffic Control System\\wwwroot\\",
+      "BasePath": "_content/Traffic Control System",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
